@@ -1,4 +1,5 @@
 [![Python package](https://github.com/brianzhang01/ci_example/actions/workflows/unit-test.yml/badge.svg)](https://github.com/brianzhang01/ci_example/actions/workflows/unit-test.yml)
+[![codecov](https://codecov.io/gh/brianzhang01/ci_example/branch/main/graph/badge.svg?token=NGZLE75JK7)](https://codecov.io/gh/brianzhang01/ci_example)
 
 # OxRSE Continuous Integration course
 
